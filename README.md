@@ -1,6 +1,6 @@
 # Astudillo_Flores_Rivas_EXP2
 
-# Astudillo_Flores_Rivas_EXP2 
+
 # Sistema de Gestión de Videojuegos Proyecto desarrollado de forma distribuida en GitHub C# .NET 8 y xUnit. 
 
 ## Integrantes 
